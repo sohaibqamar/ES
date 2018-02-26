@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=S-IN Pin=P1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=P1-2
+Removed Pin From Net: NetName=DC-DC-IN Pin=P2-2
+Removed Pin From Net: NetName=S-IN Pin=P7-2
+Removed Pin From Net: NetName=DC-DC-IN Pin=P9-1
+Removed Pin From Net: NetName=PWR5+ Pin=P10-1
+Removed Member From Class: ClassName=Controller Member=P1
+Removed Member From Class: ClassName=Controller Member=P2
+Removed Member From Class: ClassName=Controller Member=P7
+Removed Member From Class: ClassName=Controller Member=P9
+Removed Member From Class: ClassName=Controller Member=P10
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Pin To Net: NetName=NetJ4_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U1-11
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_1 Pin=R10-2
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=U11-4
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ7_2 Pin=U13-1
+Added Pin To Net: NetName=NetJ7_2 Pin=U13-2
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ8_2 Pin=U13-3
+Added Pin To Net: NetName=NetJ8_2 Pin=U13-4
+Added Net: Name=NetJ8_2
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ8_2')
+Change Rule Scope 1 : Old Scope=InNet('NetJ8_2') New Scope=InNet('NetJ7_2')

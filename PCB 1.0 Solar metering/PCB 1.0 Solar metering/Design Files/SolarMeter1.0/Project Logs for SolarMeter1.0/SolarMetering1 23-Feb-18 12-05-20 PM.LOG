@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=VCC-5V Pin=C20-2
+Removed Member From Class: ClassName=Controller Member=C20
+Change Component DesignItemId : Designator=C19 Old DesignItemId=TANTALUM-SMD-10UF-16V-10%(AVX-A) New DesignItemId=CERAMIC-10NF-50V-5%-X7R(0805)
+Change Component Footprint: Designator=C19 Old Footprint=AVX-A New Footprint=C0805
+Change Component Comment : Designator=C19 Old Comment=302020002 New Comment=302010175
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=CS-K Pin=U18-6

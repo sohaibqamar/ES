@@ -1,0 +1,7 @@
+Added Component: Designator=U11(LM2596HVS DC-DC step-down module)
+Added Pin To Net: NetName=DC-DC-IN Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=PWR5- Pin=U11-3
+Added Pin To Net: NetName=NetP10_2 Pin=U11-4
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component U11 LM2596HV

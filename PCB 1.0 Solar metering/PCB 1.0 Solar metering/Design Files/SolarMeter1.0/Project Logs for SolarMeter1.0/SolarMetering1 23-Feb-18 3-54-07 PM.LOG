@@ -1,0 +1,28 @@
+Added Component: Designator=J3(H2-2.54)
+Added Component: Designator=J4(H2-2.54)
+Added Component: Designator=J5(H2-2.54)
+Added Component: Designator=J6(H2-2.54)
+Added Component: Designator=J7(H2-2.54)
+Added Component: Designator=J8(H2-2.54)
+Added Pin To Net: NetName=NetD1_2 Pin=J3-1
+Added Pin To Net: NetName=S-IN Pin=J3-2
+Added Pin To Net: NetName=DC-DC-IN Pin=J4-1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=VCC-5V Pin=J5-2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=PWR5+ Pin=J6-2
+Added Pin To Net: NetName=S-IN Pin=J7-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=DC-DC-IN Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component J3 Jumper 2Pin
+Added Member To Class: ClassName=Controller Member=Component J4 Jumper 2Pin
+Added Member To Class: ClassName=Controller Member=Component J5 Jumper 2Pin
+Added Member To Class: ClassName=Controller Member=Component J6 Jumper 2Pin
+Added Member To Class: ClassName=Controller Member=Component J7 Jumper 2Pin
+Added Member To Class: ClassName=Controller Member=Component J8 Jumper 2Pin
+Added Member To Class: ClassName=Controller Member=Component J10 ADR0
+Change Rule Scope 1 : Old Scope=InNet('NetJ8_2') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ7_2')

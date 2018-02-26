@@ -1,0 +1,10 @@
+Added Component: Designator=C15(AVX-A)
+Added Component: Designator=C15(AVX-A)
+Added Pin To Net: NetName=VCC-5V Pin=C15-+
+Added Pin To Net: NetName=VCC-5V Pin=C15-+
+Added Pin To Net: NetName=GND Pin=C15--
+Added Pin To Net: NetName=GND Pin=C15--
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component C15 302020002
+Added Member To Class: ClassName=Controller Member=Component C15 302020002
+Added Member To Class: ClassName=Controller Member=Component C16 302010165

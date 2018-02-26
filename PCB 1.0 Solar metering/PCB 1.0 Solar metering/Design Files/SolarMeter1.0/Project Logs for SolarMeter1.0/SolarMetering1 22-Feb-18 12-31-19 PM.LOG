@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=VCC-5V Pin=C1-+
+Removed Pin From Net: NetName=GND Pin=C1--
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-2
+Removed Pin From Net: NetName=VCC-5V Pin=C4-+
+Removed Pin From Net: NetName=GND Pin=C4--
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=VCC-5V Pin=C5-2
+Removed Pin From Net: NetName=RESET Pin=C6-2
+Removed Pin From Net: NetName=VCC-5V Pin=C8-+
+Removed Pin From Net: NetName=GND Pin=C8--
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=XTAL1 Pin=C10-2
+Removed Pin From Net: NetName=XTAL2 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=VCC-3V3 Pin=C13-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=C14-+
+Removed Pin From Net: NetName=GND Pin=C14--
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap New DesignItemId=CERAMIC-100NF-50V-10%-X7R(0805)
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap New DesignItemId=TANTALUM-SMD-10UF-16V-10%(AVX-A)
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap New DesignItemId=TANTALUM-SMD-10UF-16V-10%(AVX-A)
+Change Component DesignItemId : Designator=C11 Old DesignItemId=CERAMIC-22PF-50V-5%-NPO(0402) New DesignItemId=CERAMIC-100NF-50V-10%-X7R(0805)
+Change Component DesignItemId : Designator=C10 Old DesignItemId=CERAMIC-22PF-50V-5%-NPO(0402) New DesignItemId=TANTALUM-SMD-10UF-16V-10%(AVX-A)
+Change Component DesignItemId : Designator=C6 Old DesignItemId=CERAMIC-100NF-25V-10%-X7R(0402) New DesignItemId=CERAMIC-100NF-50V-10%-X7R(0805)
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CERAMIC-100NF-25V-10%-X7R(0402) New DesignItemId=CERAMIC-100NF-50V-10%-X7R(0805)
+Change Component DesignItemId : Designator=C1 Old DesignItemId=TANTALUM-SMD-4.7UF-16V(AVX-A) New DesignItemId=CERAMIC-100NF-50V-10%-X7R(0805)
+Change Component DesignItemId : Designator=C15 Old DesignItemId=TANTALUM-SMD-4.7UF-16V(AVX-A) New DesignItemId=TANTALUM-SMD-10UF-16V-10%(AVX-A)
+Change Component Footprint: Designator=C10 Old Footprint=C0805 New Footprint=AVX-A
+Change Component Footprint: Designator=C15 Old Footprint=CapPol3528-10uF New Footprint=AVX-A
+Change Component Footprint: Designator=C1 Old Footprint=CapPol3528-10uF New Footprint=C0805
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=AVX-A
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=AVX-A
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=C0805
+Change Component Comment : Designator=C11 Old Comment=302010018 New Comment=302010165
+Change Component Comment : Designator=C10 Old Comment=302010018 New Comment=302020002
+Change Component Comment : Designator=C6 Old Comment=302010024 New Comment=302010165
+Change Component Comment : Designator=C7 Old Comment=302010024 New Comment=302010165
+Change Component Comment : Designator=C1 Old Comment=302020006 New Comment=302010165
+Change Component Comment : Designator=C15 Old Comment=302020006 New Comment=302020002
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=302010165
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=302020002
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=302020002
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=P10 NewDesignator=P12
+Change Component Designator: OldDesignator=P11 NewDesignator=P10
+Change Component Designator: OldDesignator=P12 NewDesignator=P11
+Change Component Designator: OldDesignator=R10 NewDesignator=R21
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R22
+Change Component Designator: OldDesignator=R15 NewDesignator=R23
+Change Component Designator: OldDesignator=R16 NewDesignator=R24
+Change Component Designator: OldDesignator=R17 NewDesignator=R25
+Change Component Designator: OldDesignator=R18 NewDesignator=R26
+Change Component Designator: OldDesignator=R19 NewDesignator=R27
+Change Component Designator: OldDesignator=R20 NewDesignator=R30
+Change Component Designator: OldDesignator=R21 NewDesignator=R18
+Change Component Designator: OldDesignator=R22 NewDesignator=R19
+Change Component Designator: OldDesignator=R23 NewDesignator=R20
+Change Component Designator: OldDesignator=R24 NewDesignator=R13
+Change Component Designator: OldDesignator=R25 NewDesignator=R14
+Change Component Designator: OldDesignator=R26 NewDesignator=R15
+Change Component Designator: OldDesignator=R27 NewDesignator=R16
+Change Component Designator: OldDesignator=R28 NewDesignator=R17
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=S2 NewDesignator=S7
+Change Component Designator: OldDesignator=S3 NewDesignator=S8
+Change Component Designator: OldDesignator=S4 NewDesignator=S2
+Change Component Designator: OldDesignator=S5 NewDesignator=S3
+Change Component Designator: OldDesignator=S6 NewDesignator=S4
+Change Component Designator: OldDesignator=S7 NewDesignator=S5
+Change Component Designator: OldDesignator=S8 NewDesignator=S6
+Change Component Designator: OldDesignator=U9 NewDesignator=U17
+Change Component Designator: OldDesignator=U10 NewDesignator=U9
+Change Component Designator: OldDesignator=U11 NewDesignator=U10
+Change Component Designator: OldDesignator=U12 NewDesignator=U11
+Change Component Designator: OldDesignator=U13 NewDesignator=U12
+Change Component Designator: OldDesignator=U14 NewDesignator=U13
+Change Component Designator: OldDesignator=U17 NewDesignator=U14
+Change Component Description : Designator=C6 Old Description= New Description=100nF 
+Change Component Description : Designator=C7 Old Description= New Description=100nF 
+Change Component Description : Designator=C11 Old Description= New Description=100nF 
+Added Component: Designator=C4(RAD-0.3)
+Added Component: Designator=C8(C0805)
+Added Component: Designator=C9(C0805)
+Added Component: Designator=C12(C0805)
+Added Component: Designator=C13(C0805)
+Added Component: Designator=C16(C0805)
+Added Component: Designator=C17(C0805)
+Added Component: Designator=C18(AVX-A)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC-5V Pin=C1-2
+Added Pin To Net: NetName=VCC-5V Pin=C2-+
+Added Pin To Net: NetName=GND Pin=C2--
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC-5V Pin=C5-+
+Added Pin To Net: NetName=GND Pin=C5--
+Added Pin To Net: NetName=VCC-5V Pin=C6-2
+Added Pin To Net: NetName=VCC-5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=RESET Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCC-5V Pin=C10-+
+Added Pin To Net: NetName=GND Pin=C10--
+Added Pin To Net: NetName=VCC-5V Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=XTAL2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCC-5V Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C17-2
+Added Pin To Net: NetName=VCC-3V3 Pin=C18-+
+Added Pin To Net: NetName=GND Pin=C18--
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetD5_+ New Net Name=NetD6_+
+Change Net Name : Old Net Name=NetD6_+ New Net Name=NetD5_+
+Change Net Name : Old Net Name=NetP10_1 New Net Name=NetP12_1
+Change Net Name : Old Net Name=NetP10_3 New Net Name=NetP12_3
+Added Pin To Net: NetName=NetC4_2 Pin=C3-2
+Added Pin To Net: NetName=NetC4_2 Pin=P3-1
+Added Pin To Net: NetName=NetC4_2 Pin=R2-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U6-20
+Added Net: Name=NetC9_2
+Added Member To Class: ClassName=Controller Member=Component C9 302010165
+Added Member To Class: ClassName=Controller Member=Component C16 302010165
+Added Member To Class: ClassName=Controller Member=Component C17 302010165
+Added Member To Class: ClassName=Controller Member=Component C18 302020002

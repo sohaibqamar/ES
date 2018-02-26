@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC-5V-EN Pin=BUZ1-+
+Removed Member From Class: ClassName=Controller Member=BUZ1
+Removed Member From Class: ClassName=Controller Member=R24
+Added Pin To Net: NetName=VCC-5V-EN Pin=U3-A2
+Added Pin To Net: NetName=VCC-5V-EN Pin=U3-B2

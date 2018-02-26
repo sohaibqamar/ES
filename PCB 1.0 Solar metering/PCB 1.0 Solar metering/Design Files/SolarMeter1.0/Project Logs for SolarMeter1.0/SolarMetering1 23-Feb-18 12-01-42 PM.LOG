@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BAT-OUT- Pin=U7-1
+Removed Pin From Net: NetName=BAT-OUT+ Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=VCC-5V Pin=U7-4
+Change Component DesignItemId : Designator=U7 Old DesignItemId=PowerOut Module New DesignItemId=Boost-3.7V-5V
+Change Component Footprint: Designator=U7 Old Footprint=PowerOut New Footprint=Boost Cov
+Change Component Comment : Designator=U7 Old Comment=Boost 3.7v To 5V New Comment=Boost 3.7V -5V
+Added Pin To Net: NetName=VCC-5V Pin=C15-+
+Added Pin To Net: NetName=GND Pin=C15--
+Added Pin To Net: NetName=BAT-OUT+ Pin=U7-IN+
+Added Pin To Net: NetName=BAT-OUT- Pin=U7-IN-
+Added Pin To Net: NetName=VCC-5V Pin=U7-OUT+
+Added Pin To Net: NetName=GND Pin=U7-OUT-
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component C15 302020002
+Added Member To Class: ClassName=Controller Member=Component C16 302010165

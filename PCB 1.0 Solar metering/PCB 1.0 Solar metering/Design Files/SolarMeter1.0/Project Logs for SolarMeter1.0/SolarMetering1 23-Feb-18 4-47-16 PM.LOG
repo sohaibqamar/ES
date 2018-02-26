@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=THERMISTOR-A Pin=U6-22
+Change Component Comment : Designator=U13 Old Comment=ACS712 30A Current Sensor New Comment=ACS712 20A Current Sensor
+Change Component Comment : Designator=J7 Old Comment=Jumper 2Pin New Comment=Isolate ACS
+Change Component Comment : Designator=J8 Old Comment=Jumper 2Pin New Comment=Isolate ACS
+Change Component Comment : Designator=J6 Old Comment=Jumper 2Pin New Comment=Test DC-DC Ouput
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Pin To Net: NetName=VDVR-IN Pin=R11-1
+Added Pin To Net: NetName=VDVR-IN Pin=R12-2
+Added Pin To Net: NetName=VDVR-IN Pin=U6-22
+Added Net: Name=VDVR-IN
+Change Rule Scope 1 : Old Scope=InNet('NetJ8_2') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ7_2')

@@ -1,0 +1,8 @@
+Added Component: Designator=U3(BGA3x2)
+Added Pin To Net: NetName=VCC-5V Pin=U3-A1
+Added Pin To Net: NetName=NetU3_A2 Pin=U3-A2
+Added Pin To Net: NetName=VCC-5V Pin=U3-B1
+Added Pin To Net: NetName=NetU3_A2 Pin=U3-B2
+Added Pin To Net: NetName=WAKE-UP Pin=U3-C1
+Added Pin To Net: NetName=GND Pin=U3-C2
+Added Member To Class: ClassName=Controller Member=Component U3 ADP119

@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=RESET Pin=R6-1
+Removed Pin From Net: NetName=VCC-5V-EN Pin=R6-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=R13-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=R14-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=R15-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=R16-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=R17-2
+Removed Pin From Net: NetName=RESET Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Pin From Net: NetName=RIGHT Pin=S2-4
+Removed Pin From Net: NetName=GND Pin=S3-2
+Removed Pin From Net: NetName=UP Pin=S3-4
+Removed Pin From Net: NetName=GND Pin=S4-2
+Removed Pin From Net: NetName=DOWN Pin=S4-4
+Removed Pin From Net: NetName=GND Pin=S5-2
+Removed Pin From Net: NetName=LEFT Pin=S5-4
+Removed Pin From Net: NetName=GND Pin=S6-2
+Removed Pin From Net: NetName=SELECT Pin=S6-4
+Removed Pin From Net: NetName=VCC-5V Pin=U18-4
+Change Component DesignItemId : Designator=P8 Old DesignItemId=DIP-BLACK-MALE-HEADER(2X3P-2.54)-2.54 New DesignItemId=DIP-BLACK-MALE-HEADER(2X3P-2.54)-2.54
+Change Component DesignItemId : Designator=R13 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=R14 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=R15 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=R16 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=R17 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=R6 Old DesignItemId=SMD-RES-1K-5%-1/16W(0402) New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SMD-SWITCH-TACTILE-SPST-NO(4P-D6.0MM) New DesignItemId=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGADE010)-SKQGADE010
+Change Component DesignItemId : Designator=S2 Old DesignItemId=SMD-SWITCH-TACTILE-SPST-NO(4P-D6.0MM) New DesignItemId=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGADE010)-SKQGADE010
+Change Component DesignItemId : Designator=S3 Old DesignItemId=SMD-SWITCH-TACTILE-SPST-NO(4P-D6.0MM) New DesignItemId=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGADE010)-SKQGADE010
+Change Component DesignItemId : Designator=S4 Old DesignItemId=SMD-SWITCH-TACTILE-SPST-NO(4P-D6.0MM) New DesignItemId=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGADE010)-SKQGADE010
+Change Component DesignItemId : Designator=S5 Old DesignItemId=SMD-SWITCH-TACTILE-SPST-NO(4P-D6.0MM) New DesignItemId=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGADE010)-SKQGADE010
+Change Component DesignItemId : Designator=S6 Old DesignItemId=SMD-SWITCH-TACTILE-SPST-NO(4P-D6.0MM) New DesignItemId=SMD-BUTTON(4P-5.2X5.2X1.5MM-SKQGADE010)-SKQGADE010
+Change Component Footprint: Designator=F1 Old Footprint=PIN-W2/E2.8 New Footprint=Fuse Block Blade PCB
+Change Component Footprint: Designator=S1 Old Footprint=SW4-SMD-6.0X6.0X5.0MM New Footprint=SW4-SMD-5.2X5.2X1.5MM
+Change Component Footprint: Designator=S2 Old Footprint=SW4-SMD-6.0X6.0X5.0MM New Footprint=SW4-SMD-5.2X5.2X1.5MM
+Change Component Footprint: Designator=S3 Old Footprint=SW4-SMD-6.0X6.0X5.0MM New Footprint=SW4-SMD-5.2X5.2X1.5MM
+Change Component Footprint: Designator=S4 Old Footprint=SW4-SMD-6.0X6.0X5.0MM New Footprint=SW4-SMD-5.2X5.2X1.5MM
+Change Component Footprint: Designator=S5 Old Footprint=SW4-SMD-6.0X6.0X5.0MM New Footprint=SW4-SMD-5.2X5.2X1.5MM
+Change Component Footprint: Designator=S6 Old Footprint=SW4-SMD-6.0X6.0X5.0MM New Footprint=SW4-SMD-5.2X5.2X1.5MM
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=R13 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=R14 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=R15 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=R16 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=R17 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=S1 Old Comment=311020004 New Comment=311020017
+Change Component Comment : Designator=S2 Old Comment=311020004 New Comment=311020017
+Change Component Comment : Designator=S3 Old Comment=311020004 New Comment=311020017
+Change Component Comment : Designator=S4 Old Comment=311020004 New Comment=311020017
+Change Component Comment : Designator=S5 Old Comment=311020004 New Comment=311020017
+Change Component Comment : Designator=S6 Old Comment=311020004 New Comment=311020017
+Change Component Comment : Designator=F1 Old Comment=Fuse 2 New Comment=BK-6010
+Change Component Comment : Designator=P15 Old Comment=Thermocouple   New Comment=Thermocouple
+Change Component Description : Designator=R6 Old Description= New Description=Pull up 10K resistor
+Change Component Description : Designator=R13 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Description : Designator=R14 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Description : Designator=R15 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Description : Designator=R16 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Description : Designator=R17 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Library : Designator=R13 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R14 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R15 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R16 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R17 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Added Pin To Net: NetName=VCC-5V-EN Pin=R6-1
+Added Pin To Net: NetName=RESET Pin=R6-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=R13-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=R14-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=R15-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=R16-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=R17-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=RESET Pin=S1-4
+Added Pin To Net: NetName=RIGHT Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=UP Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=DOWN Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S4-3
+Added Pin To Net: NetName=LEFT Pin=S5-2
+Added Pin To Net: NetName=GND Pin=S5-3
+Added Pin To Net: NetName=SELECT Pin=S6-2
+Added Pin To Net: NetName=GND Pin=S6-3
+Added Pin To Net: NetName=VCC-5V-EN Pin=U18-4
+Added Pin To Net: NetName=SO-K Pin=U18-6

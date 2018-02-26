@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=ALERT-LTC2945 Pin=D8-2
+Removed Pin From Net: NetName=GND Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=P17-3
+Removed Pin From Net: NetName=GND Pin=P18-1
+Removed Pin From Net: NetName=VCC-5V Pin=R34-1
+Removed Pin From Net: NetName=ALERT-LTC2945 Pin=R35-1
+Removed Pin From Net: NetName=VCC-5V Pin=R35-2

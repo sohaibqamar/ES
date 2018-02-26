@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=U14 Old DesignItemId=DIP-BLACK-MALE-HEADER-VERT(4P-2.54) New DesignItemId=OLED-128x64-SSD1306
+Change Component Footprint: Designator=U14 Old Footprint=H4-2.54 New Footprint=OLED-128x64
+Change Component Comment : Designator=U14 Old Comment=OLED128x64 New Comment=OLED-128x64-SSD1306
+Added Pin To Net: NetName=SO-K Pin=U18-6

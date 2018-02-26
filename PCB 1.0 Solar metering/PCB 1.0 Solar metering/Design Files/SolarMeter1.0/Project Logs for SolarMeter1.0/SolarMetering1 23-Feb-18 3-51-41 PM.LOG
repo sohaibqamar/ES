@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component J10 ADR0
+Change Rule Scope 1 : Old Scope=InNet('NetJ7_2') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ8_2')

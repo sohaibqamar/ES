@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=ALERT-LTC2945 Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GPIO0 Pin=D7-2
+Removed Pin From Net: NetName=NetD5_+ Pin=R10-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=R21-1
+Removed Pin From Net: NetName=NetD6_+ Pin=R21-2
+Removed Pin From Net: NetName=VCC-3V3 Pin=R24-1
+Change Component DesignItemId : Designator=D2 Old DesignItemId=LED2 New DesignItemId=SMD-LED-CLEAR-RED(0805)
+Change Component DesignItemId : Designator=D4 Old DesignItemId=LED2 New DesignItemId=SMD-LED-CLEAR-RED(0805)
+Change Component DesignItemId : Designator=D7 Old DesignItemId=LED2 New DesignItemId=SMD-LED-CLEAR-RED(0805)
+Change Component DesignItemId : Designator=D6 Old DesignItemId=SMD-LED-CLEAR-BLUE(0603) New DesignItemId=SMD-LED-CLEAR-RED(0805)
+Change Component DesignItemId : Designator=R10 Old DesignItemId=SMD-RES-1K-5%-1/16W(0402) New DesignItemId=SMD-RES-390R-5%-1/10W(0603)
+Change Component DesignItemId : Designator=R21 Old DesignItemId=SMD-RES-1K-5%-1/16W(0402) New DesignItemId=SMD-RES-390R-5%-1/10W(0603)
+Change Component DesignItemId : Designator=R3 Old DesignItemId=SMD-RES-330R-1%-1/16W(0402) New DesignItemId=SMD-RES-390R-5%-1/10W(0603)
+Change Component DesignItemId : Designator=R9 Old DesignItemId=SMD-RES-330R-1%-1/16W(0402) New DesignItemId=SMD-RES-390R-5%-1/10W(0603)
+Change Component DesignItemId : Designator=R24 Old DesignItemId=SMD-RES-330R-1%-1/16W(0402) New DesignItemId=SMD-RES-390R-5%-1/10W(0603)
+Change Component Footprint: Designator=D2 Old Footprint=3.2X1.6X1.1 New Footprint=LED-0805
+Change Component Footprint: Designator=D4 Old Footprint=3.2X1.6X1.1 New Footprint=LED-0805
+Change Component Footprint: Designator=D7 Old Footprint=3.2X1.6X1.1 New Footprint=LED-0805
+Change Component Footprint: Designator=R3 Old Footprint=C1206 New Footprint=R0603
+Change Component Footprint: Designator=R9 Old Footprint=C1206 New Footprint=R0603
+Change Component Footprint: Designator=R24 Old Footprint=C1206 New Footprint=R0603
+Change Component Footprint: Designator=D6 Old Footprint=LED-0603 New Footprint=LED-0805
+Change Component Footprint: Designator=R10 Old Footprint=R0402 New Footprint=R0603
+Change Component Footprint: Designator=R21 Old Footprint=R0402 New Footprint=R0603
+Change Component Comment : Designator=R24 Old Comment=1K New Comment=301010297
+Change Component Comment : Designator=R3 Old Comment=3.3K New Comment=301010297
+Change Component Comment : Designator=R10 Old Comment=301010006 New Comment=301010297
+Change Component Comment : Designator=R21 Old Comment=301010006 New Comment=301010297
+Change Component Comment : Designator=R9 Old Comment=301010466 New Comment=301010297
+Change Component Comment : Designator=D6 Old Comment=304090045 New Comment=304090046
+Change Component Comment : Designator=D2 Old Comment=LED2 New Comment=304090046
+Change Component Comment : Designator=D4 Old Comment=LED2 New Comment=304090046
+Change Component Comment : Designator=D7 Old Comment=RED LED   1206 New Comment=304090046
+Added Pin To Net: NetName=ALERT-LTC2945 Pin=D2--
+Added Pin To Net: NetName=GND Pin=D4--
+Added Pin To Net: NetName=GPIO0 Pin=D7--
+Added Pin To Net: NetName=NetD5_+ Pin=R10-1
+Added Pin To Net: NetName=VCC-5V Pin=R10-2
+Added Pin To Net: NetName=NetD6_+ Pin=R21-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R21-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R24-2
+Added Pin To Net: NetName=NetD2_+ Pin=D2-+
+Added Pin To Net: NetName=NetD2_+ Pin=R3-2
+Added Net: Name=NetD2_+
+Added Pin To Net: NetName=NetD4_+ Pin=D4-+
+Added Pin To Net: NetName=NetD4_+ Pin=R9-2
+Added Net: Name=NetD4_+
+Added Pin To Net: NetName=NetD7_+ Pin=D7-+
+Added Pin To Net: NetName=NetD7_+ Pin=R24-1
+Added Net: Name=NetD7_+

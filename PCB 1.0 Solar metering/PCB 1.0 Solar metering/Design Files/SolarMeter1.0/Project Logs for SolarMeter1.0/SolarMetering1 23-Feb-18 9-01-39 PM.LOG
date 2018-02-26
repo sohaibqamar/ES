@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC-5V-EN Pin=P11-1
+Removed Pin From Net: NetName=DHT-DATA Pin=P11-2
+Removed Pin From Net: NetName=GND Pin=P11-4
+Removed Member From Class: ClassName=Controller Member=P11
+Change Component DesignItemId : Designator=P8 Old DesignItemId=DIP-BLACK-MALE-HEADER(2X3P-2.54)-2.54 New DesignItemId=DIP-BLACK-MALE-HEADER(2X3P-2.54)-2.54
+Added Component: Designator=U19(DHT22_AM2303_HORIZ)
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Pin To Net: NetName=DHT-DATA Pin=U19-DATA
+Added Pin To Net: NetName=GND Pin=U19-GND
+Added Pin To Net: NetName=VCC-5V-EN Pin=U19-VDD
+Added Member To Class: ClassName=Controller Member=Component U19 DHT22
+Change Rule Scope 1 : Old Scope=InNet('DC-DC-IN') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ7_2')

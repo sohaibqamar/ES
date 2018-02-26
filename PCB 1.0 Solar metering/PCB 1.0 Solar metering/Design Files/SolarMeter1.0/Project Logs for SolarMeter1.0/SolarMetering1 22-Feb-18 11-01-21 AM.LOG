@@ -1,0 +1,4 @@
+Added Component: Designator=U10(MHDR1X2)
+Added Pin To Net: NetName=BATT-CHG+ Pin=U10-1
+Added Pin To Net: NetName=BATT-CHG- Pin=U10-2
+Added Member To Class: ClassName=Controller Member=Component U10 LI-ION

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C15 NewDesignator=C19
+Change Component Designator: OldDesignator=C16 NewDesignator=C20
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component C19 302020002
+Added Member To Class: ClassName=Controller Member=Component C20 302010165

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=S-IN Pin=R11-2
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Change Rule Scope 1 : Old Scope=InNet('NetJ7_2') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ8_2')

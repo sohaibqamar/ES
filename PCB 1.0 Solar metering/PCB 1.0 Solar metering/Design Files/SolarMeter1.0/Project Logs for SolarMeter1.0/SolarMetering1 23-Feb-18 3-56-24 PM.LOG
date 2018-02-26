@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J10 NewDesignator=J11
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=NetJ11_1
+Added Member To Class: ClassName=Controller Member=Component J11 ADR0
+Change Rule Scope 1 : Old Scope=InNet('NetJ7_2') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ8_2')

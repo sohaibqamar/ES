@@ -1,0 +1,11 @@
+Added Component: Designator=U8(TP4056)
+Added Pin To Net: NetName=PWR5+ Pin=U8-1
+Added Pin To Net: NetName=PWR5- Pin=U8-2
+Added Pin To Net: NetName=BAT-OUT+ Pin=U8-3
+Added Pin To Net: NetName=BAT-OUT- Pin=U8-4
+Added Pin To Net: NetName=BATT-CHG+ Pin=U8-5
+Added Pin To Net: NetName=BATT-CHG- Pin=U8-6
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component C15 302020002
+Added Member To Class: ClassName=Controller Member=Component C16 302010165
+Added Member To Class: ClassName=Controller Member=Component U8 TP4056 BAT CHARGER

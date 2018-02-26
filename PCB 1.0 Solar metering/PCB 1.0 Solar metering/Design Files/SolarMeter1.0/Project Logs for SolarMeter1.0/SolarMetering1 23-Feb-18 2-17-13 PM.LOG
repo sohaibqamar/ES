@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VCC-5V Pin=C1-2
+Removed Pin From Net: NetName=VCC-5V Pin=C2-+
+Removed Pin From Net: NetName=VCC-5V Pin=C5-+
+Removed Pin From Net: NetName=VCC-5V Pin=C6-2
+Removed Pin From Net: NetName=VCC-5V Pin=C20-+
+Removed Pin From Net: NetName=VCC-5V Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=P10-1
+Removed Pin From Net: NetName=VCC-5V-EN Pin=P10-2
+Removed Pin From Net: NetName=SDA Pin=P10-3
+Removed Pin From Net: NetName=SCL Pin=P10-5
+Removed Pin From Net: NetName=VCC-5V Pin=R10-2
+Removed Pin From Net: NetName=PWR5+ Pin=U11-4
+Change Component DesignItemId : Designator=P10 Old DesignItemId=Header 5 New DesignItemId=Header 2
+Change Component Footprint: Designator=P10 Old Footprint=HDR1X5 New Footprint=HDR1X2
+Change Component Comment : Designator=P10 Old Comment=MAX6675 Thermocouple Module New Comment=DC DC ouput Test
+Added Component: Designator=D8(LED-0805)
+Added Component: Designator=R31(R0603)
+Added Pin To Net: NetName=VCC-5V-EN Pin=C1-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=C2-+
+Added Pin To Net: NetName=VCC-5V-EN Pin=C5-+
+Added Pin To Net: NetName=VCC-5V-EN Pin=C6-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=C20-+
+Added Pin To Net: NetName=VCC-5V-EN Pin=C21-2
+Added Pin To Net: NetName=GND Pin=D8--
+Added Pin To Net: NetName=PWR5+ Pin=P10-1
+Added Pin To Net: NetName=VCC-5V-EN Pin=R31-2
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Pin To Net: NetName=NetD8_+ Pin=D8-+
+Added Pin To Net: NetName=NetD8_+ Pin=R31-1
+Added Net: Name=NetD8_+
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=U11-4
+Added Net: Name=NetP10_2
+Added Member To Class: ClassName=Controller Member=Component D8 304090046
+Added Member To Class: ClassName=Controller Member=Component R31 301010297

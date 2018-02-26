@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=SELECT Pin=U6-12
+Removed Pin From Net: NetName=DOWN Pin=U6-14
+Removed Pin From Net: NetName=THERMISTOR-A Pin=U6-23
+Added Component: Designator=C15(AVX-A)
+Added Component: Designator=C16(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=P?(ScrewTerminal8.5)
+Added Pin To Net: NetName=VCC-5V Pin=C15-+
+Added Pin To Net: NetName=GND Pin=C15--
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCC-5V Pin=C16-2
+Added Pin To Net: NetName=SELECT Pin=U6-11
+Added Pin To Net: NetName=THERMISTOR-A Pin=U6-22
+Added Pin To Net: NetName=DOWN Pin=U6-23
+Added Pin To Net: NetName=GND Pin=U18-1
+Added Pin To Net: NetName=VCC-5V Pin=U18-4
+Added Pin To Net: NetName=CS-K Pin=U6-25
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Added Net: Name=CS-K
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=P?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U18-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=P?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U18-3
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=SCK-K Pin=U6-14
+Added Pin To Net: NetName=SCK-K Pin=U18-5
+Added Net: Name=SCK-K
+Added Pin To Net: NetName=SO-K Pin=U6-12
+Added Pin To Net: NetName=SO-K Pin=U18-6
+Added Net: Name=SO-K
+Added Member To Class: ClassName=Controller Member=Component C15 302020002
+Added Member To Class: ClassName=Controller Member=Component C16 302010165
+Added Member To Class: ClassName=Controller Member=Component C? 302010175
+Added Member To Class: ClassName=Controller Member=Component P? Thermocouple  

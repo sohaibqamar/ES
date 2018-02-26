@@ -1,0 +1,13 @@
+Importer Log Report
+Project : userlib.PrjPcb
+
+Section : Analyze Document - D:\ES\Solar Panel\PCB Solar\PCB 1.0 Solar metering\Libraries\eaglelib-master\eaglelib-master\userlib.lbr
+    Analyzing data of D:\ES\Solar Panel\PCB Solar\PCB 1.0 Solar metering\Libraries\eaglelib-master\eaglelib-master\userlib.lbr
+    Load settings
+    Load layers 121
+    Load Library library
+    Load Library ""
+    Load Packages 26
+    Load Symbols 11
+    Load DeviceSets 10
+EndSection

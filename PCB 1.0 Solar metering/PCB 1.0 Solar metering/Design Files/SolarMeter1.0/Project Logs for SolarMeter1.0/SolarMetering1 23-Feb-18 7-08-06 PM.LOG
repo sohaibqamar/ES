@@ -1,0 +1,12 @@
+Added Component: Designator=C22(AVX-A)
+Added Component: Designator=CN?(H3-2.54)
+Added Pin To Net: NetName=VCC-5V Pin=C22-+
+Added Pin To Net: NetName=GND Pin=C22--
+Added Pin To Net: NetName=VCC-5V Pin=CN?-1
+Added Pin To Net: NetName=WAKE-UP Pin=CN?-2
+Added Pin To Net: NetName=VCC-5V-EN Pin=CN?-3
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Added Member To Class: ClassName=Controller Member=Component C22 302020002
+Added Member To Class: ClassName=Controller Member=Component CN? 320020079
+Change Rule Scope 1 : Old Scope=InNet('NetJ7_2') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ8_2')

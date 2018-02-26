@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=SDA Pin=P4-2
+Removed Pin From Net: NetName=RESET_ESP Pin=R22-1
+Removed Pin From Net: NetName=VCC-3V3 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Member From Class: ClassName=Controller Member=P4
+Removed Member From Class: ClassName=Controller Member=R22
+Change Component DesignItemId : Designator=R23 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-1K-5%-1/8W(0805)
+Change Component DesignItemId : Designator=R30 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-1K-5%-1/8W(0805)
+Change Component DesignItemId : Designator=R25 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=R26 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component DesignItemId : Designator=R27 Old DesignItemId=RESISTOR0805_NOOUTLINE New DesignItemId=SMD-RES-10K-1%-1/8W(0805)
+Change Component Comment : Designator=R23 Old Comment=1K New Comment=301010311
+Change Component Comment : Designator=R30 Old Comment=2K New Comment=301010311
+Change Component Comment : Designator=R25 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=R26 Old Comment=10K New Comment=301010361
+Change Component Comment : Designator=R27 Old Comment=10K New Comment=301010361
+Change Component Description : Designator=R23 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=
+Change Component Description : Designator=R30 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=
+Change Component Description : Designator=R25 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Description : Designator=R26 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Description : Designator=R27 Old Description=Resistors   For new designs, use the packages preceded by an '_' character since they are more reliable:   The following footprints should be used on most boards: _0402 - Standard footprint for regular board layouts  _0603 - Standard footprint for regular board layouts  _0805 - Standard footprint for regular board layouts  _1206 - Standard footprint for regular board layouts       For extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.): _0402MP - Micro-pitch footprint for very dense/compact boards  _0603MP - Micro-pitch footprint for very dense/compact boards  _0805MP - Micro-pitch footprint for very dense/compact boards  _1206MP - Micro-pitch footprint for very dense/compact boards New Description=Pull up 10K resistor for button
+Change Component Library : Designator=R23 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R25 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R26 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R27 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Change Component Library : Designator=R30 Old Library=microbuilder.IntLib New Library=Seeed-Resistor.SCHLIB
+Added Component: Designator=J10(H3-2.54)
+Added Component: Designator=R32(R0805)
+Added Component: Designator=R33(R0805)
+Added Pin To Net: NetName=SDA Pin=J10-2
+Added Pin To Net: NetName=VCC-3V3 Pin=R21-2
+Added Pin To Net: NetName=VCC-3V3 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=RESET_ESP Pin=R33-1
+Added Pin To Net: NetName=VCC-3V3 Pin=R33-2
+Added Pin To Net: NetName=CS-K Pin=U18-6
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=U1-9
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=R32-2
+Added Net: Name=NetR30_1
+Added Member To Class: ClassName=Controller Member=Component J10 ADR0
+Added Member To Class: ClassName=Controller Member=Component R32 301010311
+Added Member To Class: ClassName=Controller Member=Component R33 301010361
+Change Rule Scope 1 : Old Scope=InNet('NetJ7_2') New Scope=InNet('S-IN')
+Change Rule Scope 1 : Old Scope=InNet('S-IN') New Scope=InNet('NetJ8_2')
