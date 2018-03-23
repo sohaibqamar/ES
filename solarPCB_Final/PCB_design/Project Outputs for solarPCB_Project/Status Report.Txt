@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [solarPCB_Project.PrjPcb]
+   Generated File[SolarPCB-RoundHoles.TXT]
+   Generated File[SolarPCB-SlotHoles.TXT]
+   Generated File[SolarPCB.LDP]
+   Generated File[SolarPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:15:16 PM On 3/20/2018
